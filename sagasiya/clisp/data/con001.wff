@@ -1,0 +1,5 @@
+;; contradiction
+
+(1 () (+ P a))
+(2 () (- P a))
+

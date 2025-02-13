@@ -1,0 +1,5 @@
+;; no contradiction
+
+(1 (x) (+ P x)(- Q x))
+
+
